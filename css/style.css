@@ -3,7 +3,7 @@
 body {
     font-family: 'Muli', sans-serif;
     text-align: center;
-    background-color: rgb(228, 50, 50);
+    background-color: rgb(231, 68, 68);
 }
 
 h1 {
@@ -15,4 +15,10 @@ h1 {
 
 .blink {
     font-size: 2em;
+}
+
+img.lucas {
+    margin-top: 1em;
+    border: 5px solid #fff;
+    box-shadow: 0px 0px 5px rgb(97, 0, 0);
 }
